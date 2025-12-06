@@ -1,0 +1,1 @@
+# 1. Using Docker Composedocker-compose up -d# 2. Using Docker directlydocker build -t tk1971-avaitor .docker run -d --name tk1971-avaitor --restart always tk1971-avaitor
